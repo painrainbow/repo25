@@ -1,1 +1,0 @@
-![[flutdoct.jpg]]![[flutavd.jpg]]![[flutapp.jpg]]![[222.png]]ОС Windows 10, терминал powershell.
