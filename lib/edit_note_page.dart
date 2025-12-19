@@ -15,6 +15,8 @@ class _EditNotePageState extends State<EditNotePage> {
   late List<TextEditingController> _paragraphControllers;
   final List<FocusNode> _focusNodes = [];
 
+
+
   @override
   void initState() {
     super.initState();

@@ -19,6 +19,8 @@ class ProductCard extends StatelessWidget {
     this.onTap,
   });
 
+
+
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
